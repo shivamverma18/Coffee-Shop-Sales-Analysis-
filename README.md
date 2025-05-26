@@ -3,7 +3,7 @@
 Welcome to the **Coffee Shop Sales Dashboard** project!  
 This project is built to analyze retail coffee sales data and uncover insights that drive smarter business decisions — all within **Excel** using **Power Query**, **Pivot Tables**, and **Interactive Charts**.
 
-![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20Dashboard.jpg)
+![Coffee Shop Sales Dashboard](Coffee Shop Sales Dashboard Screenshot.jpg) 
 
 ---
 
