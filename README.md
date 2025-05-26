@@ -37,3 +37,8 @@ To transform raw sales data from a coffee shop chain into a clean, visual, and i
 ---
 
 ## 📂 Project Structure  
+- 📅 **Coffee Shop Sales Analysis OBJECTIVE** 
+- 🏪 **Coffee Shop Sales Dashboard Screenshot** 
+- 🥇 **Top-Selling Products** 
+- 💸 **Revenue Metrics** – Calculated Total Sales, Average Bill per Person, and Average Order per Person  
+- 📦 **Product Category Distribution** – Evaluated which product categories are most popular among customers  
