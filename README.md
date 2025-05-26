@@ -37,11 +37,11 @@ To transform raw sales data from a coffee shop chain into a clean, visual, and i
 ---
 
 ## 📂 Project Structure  
-├── 📑 **Coffee Shop Sales Analysis OBJECTIVE** 
-├── 📊 **Coffee Shop Sales Analysis.xlsv** 
-├── 📂 **Coffee Shop Sales DATASET.xlsx**
-├── 📸 **Coffee Shop Sales Dashboard Screenshot.jpg**
-└── 📄 **README.md**
+- ├── 📑 **Coffee Shop Sales Analysis OBJECTIVE** 
+- ├── 📊 **Coffee Shop Sales Analysis.xlsv** 
+- ├── 📂 **Coffee Shop Sales DATASET.xlsx**
+- ├── 📸 **Coffee Shop Sales Dashboard Screenshot.jpg**
+- └── 📄 **README.md**
 
 
  
